@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KyroTask/KyroTask/main/brand-logo/fox.png" width="100" height="100" alt="KyroTask Logo"/>
+<img src="https://raw.githubusercontent.com/KyroTask/.github/main/profile/logo.png" width="100" height="100" alt="KyroTask Logo"/>
 
 # KyroTask
 
