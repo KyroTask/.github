@@ -12,9 +12,9 @@
 [![Frontend](https://img.shields.io/badge/Frontend-Vue%203-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/KyroTask/mini-app)
 [![Platform](https://img.shields.io/badge/Platform-Telegram%20Mini%20App-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)
 
-### 🚀 [Try the Live Demo →](https://kyrotask.github.io/Demo/)
+### 🚀 [Try the Live Demo →](https://kyrotask.github.io/demo/)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://kyrotask.github.io/Demo/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://kyrotask.github.io/demo/)
 
 </div>
 
@@ -30,7 +30,7 @@ KyroTask is a full-stack productivity platform and habit tracker that lives insi
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [**Demo**](https://github.com/KyroTask/Demo) | 🌐 [Live interactive demo](https://kyrotask.github.io/Demo/) — explore all features without setup | Vue 3 · Vite · Tailwind CSS · GitHub Pages |
+| [**Demo**](https://github.com/KyroTask/demo) | 🌐 [Live interactive demo](https://kyrotask.github.io/demo/) — explore all features without setup | Vue 3 · Vite · Tailwind CSS · GitHub Pages |
 | [**KyroTask**](https://github.com/KyroTask/KyroTask) | Main monorepo — root config, scripts, submodules | — |
 | [**mini-app**](https://github.com/KyroTask/mini-app) | Telegram Mini App frontend | Vue 3 · Vite · Tailwind CSS · Pinia |
 | [**internal**](https://github.com/KyroTask/internal) | REST API backend | Go · Gin · GORM · PostgreSQL |
